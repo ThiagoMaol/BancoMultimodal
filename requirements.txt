@@ -4,4 +4,4 @@ torch
 Pillow
 tqdm
 python-dotenv
--e ./FlagEmbedding
+FlagEmbedding==1.3.5
