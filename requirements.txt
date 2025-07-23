@@ -1,0 +1,6 @@
+streamlit
+pymilvus
+torch
+Pillow
+tqdm
+python-dotenv
